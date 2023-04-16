@@ -11,7 +11,7 @@ day20takehometask/ (bebas)
 
 ## Keterangan:
 - file src/shape.js adalah file yang berisi method untuk menghitung luas dan keliling persegi, segitiga dan lingkaran
-- file src/student.js adalah file yang berisi method untuk menyimpan bentuk data mahasiswa (sebuah class dengan property nama, nim, dan kelas beserta setter dan getter)
+- file src/student.js adalah file yang berisi class untuk menyimpan bentuk data mahasiswa (sebuah class dengan property nama, nim, dan kelas beserta setter dan getter)
 - file index.js adalah file yang:
     1. dapat menerima inputan user dari terminal/cmd
     2. memanggil file src/shape dan src/student.
